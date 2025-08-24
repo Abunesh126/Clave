@@ -1,0 +1,9 @@
+Flask
+numpy
+scipy
+tensorflow
+tensorflow_intel
+Werkzeug
+gunicorn
+
+
